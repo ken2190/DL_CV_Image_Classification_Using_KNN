@@ -1,5 +1,4 @@
 # Deep Learning in Computer Vision: Image Classification Using k-NN
-Regression tree, cross validation, bagging, and random forest on Carseats sale dataset.
 
 ## Acknowledgment
 This project has been developed based on the chapter 7 of book "Deep Learning for Computer Vision with Python- Starter Bundle" by Dr. Adrian Rosebrock [1].
